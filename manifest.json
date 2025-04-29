@@ -2,8 +2,8 @@
   "background_color": "#ffffff",
   "display": "standalone",
   "lang": "en",
-  "name": "prescribengpatientmobileapp",
-  "short_name": "prescribengpatientmobileapp",
+  "name": "patientapp",
+  "short_name": "patientapp",
   "start_url": "/?utm_source=web_app_manifest",
   "orientation": "portrait"
 }
