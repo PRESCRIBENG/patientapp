@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.js": "/patientapp/static/js/main.4f16b5c1.js",
-    "static/js/559.21260ebd.js": "/patientapp/static/js/559.21260ebd.js",
-    "static/media/FontAwesome.ttf": "/patientapp/static/media/FontAwesome.1e59d2330b4c6deb84b3.ttf",
-    "favicon.ico": "/patientapp/favicon.ico",
-    "index.html": "/patientapp/index.html",
-    "favicon-32.png": "/patientapp/favicon-32.png",
-    "favicon-16.png": "/patientapp/favicon-16.png",
-    "manifest.json": "/patientapp/manifest.json",
-    "serve.json": "/patientapp/serve.json",
-    "main.4f16b5c1.js.map": "/patientapp/static/js/main.4f16b5c1.js.map",
-    "559.21260ebd.js.map": "/patientapp/static/js/559.21260ebd.js.map"
+    "main.js": "/static/js/main.b87728a0.js",
+    "static/js/559.21260ebd.js": "/static/js/559.21260ebd.js",
+    "static/media/FontAwesome.ttf": "/static/media/FontAwesome.1e59d2330b4c6deb84b3.ttf",
+    "favicon.ico": "/favicon.ico",
+    "index.html": "/index.html",
+    "favicon-32.png": "/favicon-32.png",
+    "favicon-16.png": "/favicon-16.png",
+    "manifest.json": "/manifest.json",
+    "serve.json": "/serve.json",
+    "main.b87728a0.js.map": "/static/js/main.b87728a0.js.map",
+    "559.21260ebd.js.map": "/static/js/559.21260ebd.js.map"
   },
   "entrypoints": [
     "static/js/559.21260ebd.js",
-    "static/js/main.4f16b5c1.js"
+    "static/js/main.b87728a0.js"
   ]
 }
